@@ -1,0 +1,28 @@
+body{
+    background: no-repeat;
+    background-image: url("/back.png") ;
+    background-size: 700px 600px; 
+    background-position: center;
+}
+.bodyStyle{
+    max-width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px; 
+    opacity: 0.5;
+}
+#title{
+    max-width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+    font-size: 20pt;
+}
+#button{
+    max-width: 400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
